@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## By: Shreyas, Phillip, Aidan, Maahir
 
 You can use the [editor on GitHub](https://github.com/MehtA-AI-AIMLResearchBootcamp22/Midterm-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
