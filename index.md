@@ -1,6 +1,6 @@
 ## By: Shreyas, Phillip, Aidan, Maahir
 
-You can use the [editor on GitHub](https://github.com/MehtA-AI-AIMLResearchBootcamp22/Midterm-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#Identifying Genders of Authors in the 1600s
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
