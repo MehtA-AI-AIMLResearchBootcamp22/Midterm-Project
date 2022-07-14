@@ -2,7 +2,9 @@
 
 ## Identifying Genders of Authors in the 1600s
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What exactly did we do? Well the first thing we did was try and identify different features that we could use. To do that, we wanted to know exactly what separates the writing styles of men and women. After brainstorming, we came to several conclusions. We saw that there was a greater use of pronouns in the women's texts compared to the men's texts. Not only did we find a correlation in the use of pronouns, but also in the use of logical connectors like "therefore" and "hence". We saw that these words were used more frequently in the men's texts. One last thing that we noticed was the use of punctuation. Since the women's sentences were generally longer they also contained more punctuation. 
+
+Now that we figured out some of the features we wanted to use, what do we do with them. At first we thought that all we really needed was a "Bag of Words", but we soon came to realize that "Bag of Words" doesn't cover punctuation. So we needed to adjust our model. 
 
 ### Markdown
 
