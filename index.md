@@ -2,7 +2,7 @@
 
 ## Identifying Genders of Authors in the 1600s
 
-What exactly did we do? Well the first thing we did was try and identify different features that we could use. To do that, we wanted to know exactly what separates the writing styles of men and women. After brainstorming, we came to several conclusions. We saw that there was a greater use of pronouns in the women's texts compared to the men's texts. Not only did we find a correlation in the use of pronouns, but also in the use of logical connectors like "therefore" and "hence". We saw that these words were used more frequently in the men's texts. One last thing that we noticed was the use of punctuation. Since the women's sentences were generally longer they also contained more punctuation. 
+What exactly did we do? The first thing we did was try and identify different features that we could use. To do that, we wanted to know exactly what separates the writing styles of men and women. After brainstorming, we came to several conclusions. We saw that there was a greater use of pronouns in the women's texts compared to the men's texts. Not only did we find a correlation in the use of pronouns, but also in the use of logical connectors like "therefore" and "hence". We saw that these words were used more frequently in the men's texts. One last thing that we noticed was the use of punctuation. Since the women's sentences were generally longer they also contained more punctuation. 
 
 Here is a list of our features: [ "Average Sentence Length",  "Logic",  ",",  "?",  ":",  ";",  "(",  "i",  "you",  "us",  "them",  "they",  "we",  "he",  "she" ]
 
