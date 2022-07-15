@@ -20,6 +20,9 @@ The testing accuracy is: 98.7%
         </div>
     </body>  
 
+## References
+
+[(https://www.researchgate.net/publication/272685673_Automatically_Categorizing_Written_Texts_by_Author_Gender)]
 
 
 
