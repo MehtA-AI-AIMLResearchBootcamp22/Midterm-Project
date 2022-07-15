@@ -6,9 +6,9 @@ What exactly did we do? Well the first thing we did was try and identify differe
 
 Now that we figured out some of the features we wanted to use, what do we do with them. At first we thought that all we really needed was a "Bag of Words", but we soon came to realize that "Bag of Words" doesn't cover punctuation. So we needed to adjust our model. We used a count function to find the frequencies of all the words and punctuation. After that we decided not to use KNN or SVM models since we felt that those two didn't really have any learning going on, we decided to use a perceptron model. Now if the weights returned are negative then it is indicative of the males writing style, and a positive weight is indicative of female writing style.
 
-The weights we recieved is: 
-The new bias is: 
-The validation accuracy is: 71%
+The weights we recieved is: <br>
+The new bias is: <br>
+The validation accuracy is: 71%  <br>
 The testing accuracy is: 97%
 
 ### Markdown
