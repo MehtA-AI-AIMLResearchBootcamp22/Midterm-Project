@@ -11,24 +11,13 @@ The new bias is: -876 <br>
 The validation accuracy is: 80%  <br>
 The testing accuracy is: 98.7%
 
-### View our code:
-```markdown
-Syntax highlighted code block
+<body>
+        <div class = "center">
+            <h3>View Our Code!</h3>
+            <script src="https://gist.github.com/shreyas-s125/74bdb14a1dafab9619a30c08c73ff714"></script>
+        </div>
+    </body>  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-<script src="https://gist.github.com/shreyas-s125/74bdb14a1dafab9619a30c08c73ff714"</script>
-[Link](url) and ![Image](src)
-```
 
 
 
