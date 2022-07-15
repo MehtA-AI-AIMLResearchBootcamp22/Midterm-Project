@@ -26,7 +26,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+<script src="https://gist.github.com/shreyas-s125/74bdb14a1dafab9619a30c08c73ff714"</script>
 [Link](url) and ![Image](src)
 ```
 
