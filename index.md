@@ -14,7 +14,7 @@ The testing accuracy is: 98.7%
 <body>
         <div class = "center">
             <h3>View Our Code!</h3>
-            <script src="https://gist.github.com/shreyas-s125/74bdb14a1dafab9619a30c08c73ff714"></script>
+            <script src="https://gist.github.com/shreyas-s125/74bdb14a1dafab9619a30c08c73ff714.js"></script>
         </div>
     </body>  
 
