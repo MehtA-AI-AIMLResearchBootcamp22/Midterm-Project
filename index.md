@@ -8,8 +8,8 @@ Now that we figured out some of the features we wanted to use, what do we do wit
 
 The weights we recieved are: [-54,  -322,   318,  2588, -1897,  1802, -4925,    48,  2578, -2821,  -260,  -187,   784,  -128,  1759] <br>
 The new bias is: -876 <br>
-The validation accuracy is: 71%  <br>
-The testing accuracy is: 97%
+The validation accuracy is: 80%  <br>
+The testing accuracy is: 98.7%
 
 ### View our code:
 ```markdown
